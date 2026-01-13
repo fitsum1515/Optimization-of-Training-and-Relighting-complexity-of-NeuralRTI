@@ -1,4 +1,4 @@
-# Optimization-of-Training-and-Relighting-complexity-of-NeuralRTI
+# Optimization of Training and Relighting complexity of NeuralRTI
 
 Reflectance Transformation Imaging (RTI) is a computational photography technique used to capture and analyze the surface texture and topology of objects. By taking multiple pictures from a fixed perspective while changing the light directions, RTI allows users to dynamically relight surfaces, providing an interactive way to explore and study complex surface details. 
  
